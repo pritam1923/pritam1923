@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pritam Nandi</h1>
-<h3 align="center">I am</h3>
+<h3 align="center">I am a Gamer, Web Developer Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pritam1923&label=Profile%20views&color=0e75b6&style=flat" alt="pritam1923" /> </p>
 
