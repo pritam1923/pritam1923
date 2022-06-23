@@ -1,4 +1,4 @@
-[![MasterHead](https://media-exp2.licdn.com/dms/image/C4D16AQGyK74Og8KcXA/profile-displaybackgroundimage-shrink_350_1400/0/1654152772516?e=1661385600&v=beta&t=BibDaj3aOi7EmHLcKjvw6EOKDwoitKh9Uvvzw6jL9pw)]
+![MasterHead](https://media-exp2.licdn.com/dms/image/C4D16AQGyK74Og8KcXA/profile-displaybackgroundimage-shrink_350_1400/0/1654152772516?e=1661385600&v=beta&t=BibDaj3aOi7EmHLcKjvw6EOKDwoitKh9Uvvzw6jL9pw)
 <h1 align="center">Hi 👋, I'm Pritam Nandi</h1>
 <h3 align="center">I am a Gamer as well as a Web Developer Enthusiast</h3>
 <img align="right" alt="coding" width="400" src="https://c.tenor.com/3klZkDif0nsAAAAd/gaming-gif.gif">
