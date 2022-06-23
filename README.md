@@ -1,9 +1,9 @@
+[![MasterHead](https://media-exp2.licdn.com/dms/image/C4D16AQGyK74Og8KcXA/profile-displaybackgroundimage-shrink_350_1400/0/1654152772516?e=1661385600&v=beta&t=BibDaj3aOi7EmHLcKjvw6EOKDwoitKh9Uvvzw6jL9pw)]
 <h1 align="center">Hi 👋, I'm Pritam Nandi</h1>
-<h3 align="center">I am a Gamer, Web Developer Enthusiast</h3>
+<h3 align="center">I am a Gamer as well as a Web Developer Enthusiast</h3>
+<img align="right" alt="coding" width="400" src="https://c.tenor.com/3klZkDif0nsAAAAd/gaming-gif.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pritam1923&label=Profile%20views&color=0e75b6&style=flat" alt="pritam1923" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pritam1923" alt="pritam1923" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/matripgaming" target="blank"><img src="https://img.shields.io/twitter/follow/matripgaming?logo=twitter&style=for-the-badge" alt="matripgaming" /></a> </p>
 
@@ -33,3 +33,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pritam1923&show_icons=true&locale=en" alt="pritam1923" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pritam1923&" alt="pritam1923" /></p>
