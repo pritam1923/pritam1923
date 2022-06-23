@@ -1,7 +1,7 @@
 ![MasterHead](https://media-exp2.licdn.com/dms/image/C4D16AQGyK74Og8KcXA/profile-displaybackgroundimage-shrink_350_1400/0/1654152772516?e=1661385600&v=beta&t=BibDaj3aOi7EmHLcKjvw6EOKDwoitKh9Uvvzw6jL9pw)
 <h1 align="center">Hi 👋, I'm Pritam Nandi</h1>
 <h3 align="center">I am a Gamer as well as a Web Developer Enthusiast</h3>
-<img align="center" alt="coding" width="400" src="https://c.tenor.com/3klZkDif0nsAAAAd/gaming-gif.gif">
+<img align="center" alt="coding" width="480" src="https://c.tenor.com/3klZkDif0nsAAAAd/gaming-gif.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pritam1923&label=Profile%20views&color=0e75b6&style=flat" alt="pritam1923" /> </p>
 
